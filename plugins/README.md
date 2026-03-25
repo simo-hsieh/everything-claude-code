@@ -10,7 +10,7 @@ Add this repo as a marketplace, then install individual language plugins:
 
 ```bash
 # Add this repo as a marketplace
-/plugin marketplace add YOUR_GITHUB/my-everything-claude-code
+/plugin marketplace add simo-hsieh/everything-claude-code
 
 # Install only what you need
 /plugin install java-dev@everything-claude-code
